@@ -1,0 +1,36 @@
+/* header css */
+header a{
+    float: left;
+}
+header h1{
+    color: blueviolet;
+}
+
+/* nav css */
+nav {
+    background-color: blueviolet !important;
+}
+nav a{
+    font-weight: bold;
+}
+
+/* main css */
+main h3{
+    text-align: center;
+}
+main a{
+    text-decoration: none !important;
+    text-align: center !important;
+}
+/* section css */
+
+/* footer css */
+footer {
+	background-color:blueviolet;
+	clear: both;
+}
+footer p {
+	text-align: center;
+	color: white;
+	padding: 1em 0;
+}
